@@ -1,3 +1,3 @@
 print("mic is fine, check powercut")
 
-print("get an inverter")
+print("fresh message")
